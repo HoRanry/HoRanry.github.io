@@ -15,6 +15,20 @@
       </tags>
   </entry>
   <entry>
+    <title>第一篇博客</title>
+    <url>/2019/10/13/My%20first%20blog/article/</url>
+    <content><![CDATA[<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><blockquote>
+<p>本人小浩然，一枚00后。从我对前端一无所知，到现在学习前端已经五个月了，首先感谢我的师傅耐心的指导我，也非常感谢很多人一路对我的指导。<br>  <a id="more"></a><br>写这篇博客也是想让自己在坚持，每天都努力一点。看着别人，才觉得自己现在迷惘了好多，做什么事都应该点点滴滴，而我如今，却感觉自己就是个知识能力太碎，太浅薄，没有系统的总结，技术依旧low。做事不太认真努力，没有充分地利用时间。做事总是忽冷忽热，开头很好，可是过程断断续续，这篇博客也是为了监督自己更好的学习。<br>这条路虽然漫长，但是也很有趣。加油！哈哈！终于配置好博客了，开心！</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>第一篇文章</category>
+      </categories>
+      <tags>
+        <tag>自我介绍</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>JavaScript数组去重</title>
     <url>/2019/10/21/JsBasics/arrayWeightRemova/</url>
     <content><![CDATA[<h2 id="ES6新语法Set"><a href="#ES6新语法Set" class="headerlink" title="ES6新语法Set"></a>ES6新语法Set</h2><p>用ES6新语法简单粗暴,Set最大特点是数据不重复，利用该特性达到数组去重</p>
@@ -32,20 +46,6 @@
       </categories>
       <tags>
         <tag>数组去重</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一篇博客</title>
-    <url>/2019/10/13/My%20first%20blog/article/</url>
-    <content><![CDATA[<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><blockquote>
-<p>本人小浩然，一枚00后。从我对前端一无所知，到现在学习前端已经五个月了，首先感谢我的师傅耐心的指导我，也非常感谢很多人一路对我的指导。<br>  <a id="more"></a><br>写这篇博客也是想让自己在坚持，每天都努力一点。看着别人，才觉得自己现在迷惘了好多，做什么事都应该点点滴滴，而我如今，却感觉自己就是个知识能力太碎，太浅薄，没有系统的总结，技术依旧low。做事不太认真努力，没有充分地利用时间。做事总是忽冷忽热，开头很好，可是过程断断续续，这篇博客也是为了监督自己更好的学习。<br>这条路虽然漫长，但是也很有趣。加油！哈哈！终于配置好博客了，开心！</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>第一篇文章</category>
-      </categories>
-      <tags>
-        <tag>自我介绍</tag>
       </tags>
   </entry>
 </search>
